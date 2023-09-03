@@ -1,3 +1,9 @@
+## Dashboard with auth
+<img width="1440" alt="Снимок экрана 2023-09-03 в 13 08 54" src="https://github.com/igorelyiw/next_js13_todo/assets/49938945/f07b53fb-0235-4473-b348-de14902545d5">
+
+## Tickets List Page
+<img width="1436" alt="Снимок экрана 2023-09-03 в 13 09 09" src="https://github.com/igorelyiw/next_js13_todo/assets/49938945/e1cf3ac8-cae9-4030-aa1d-08f1cb8d72db">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
